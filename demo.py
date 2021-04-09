@@ -12,7 +12,7 @@ def ourFunction(number):
     return: outNumber (float)
     
     """
-    outNumber = number * 2
+    outNumber = number * 3
     return outNumber
 
 
